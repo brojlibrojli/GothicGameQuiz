@@ -1,0 +1,13 @@
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\bin\Debug\netcoreapp3.1\GothicGameQuiz.exe
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\bin\Debug\netcoreapp3.1\GothicGameQuiz.deps.json
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\bin\Debug\netcoreapp3.1\GothicGameQuiz.runtimeconfig.json
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\bin\Debug\netcoreapp3.1\GothicGameQuiz.runtimeconfig.dev.json
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\bin\Debug\netcoreapp3.1\GothicGameQuiz.dll
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\bin\Debug\netcoreapp3.1\GothicGameQuiz.pdb
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\obj\Debug\netcoreapp3.1\GothicGameQuiz.csprojAssemblyReference.cache
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\obj\Debug\netcoreapp3.1\GothicGameQuiz.AssemblyInfoInputs.cache
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\obj\Debug\netcoreapp3.1\GothicGameQuiz.AssemblyInfo.cs
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\obj\Debug\netcoreapp3.1\GothicGameQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\obj\Debug\netcoreapp3.1\GothicGameQuiz.dll
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\obj\Debug\netcoreapp3.1\GothicGameQuiz.pdb
+C:\Users\Radek\source\repos\GothicGameQuiz\GothicGameQuiz\obj\Debug\netcoreapp3.1\GothicGameQuiz.genruntimeconfig.cache
