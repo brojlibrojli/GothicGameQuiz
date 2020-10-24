@@ -10,12 +10,15 @@ namespace GothicGameQuiz
         {
             do
             {
-                Game.askForName();
+                Player.askForName();
                 Game.userWelcome();
                 Game.askQuestions();
                 Game.sayGoodbay();
                 Game.playAgain();
+                Player.points = 0;
             } while (Game.askPlayAgain == "a");
         }
+
+
     }
 }
